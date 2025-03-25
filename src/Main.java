@@ -1,17 +1,15 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        // Example Usage
-        ListNode l1 = new ListNode(2, new ListNode(4, new ListNode(3))); // Represents 342
-        ListNode l2 = new ListNode(5, new ListNode(6, new ListNode(4))); // Represents 465
+        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
+        // to see how IntelliJ IDEA suggests fixing it.
+        System.out.printf("Hello and welcome!");
 
-        AddTwoNumbersNode solution = new AddTwoNumbersNode();
-        ListNode result = solution.addTwoNumbers(l1, l2);
-
-        // Print the result
-        while (result != null) {
-            System.out.print(result.val + " -> ");
-            result = result.next;
+        for (int i = 1; i <= 5; i++) {
+            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
+            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
+            System.out.println("i = " + i);
         }
-        System.out.println("null");
     }
 }
