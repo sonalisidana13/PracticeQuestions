@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f50f733-4f57-4b79-9781-c5d75f3a3acf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinSubArrayLen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MinSubArrayLen.executor": "Run",
     "Application.Practice.executor": "Debug",
     "Application.ValidSudoku.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -46,7 +47,14 @@
     "onboarding.tips.debug.path": "/Users/sonalisidana/Desktop/Projects/PracticeQuestions/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MinSubArrayLen">
+    <configuration name="MinSubArrayLen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinSubArrayLen" />
+      <module name="PracticeQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ValidSudoku" />
       <module name="PracticeQuestions" />
@@ -56,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinSubArrayLen" />
         <item itemvalue="Application.ValidSudoku" />
       </list>
     </recent_temporary>
