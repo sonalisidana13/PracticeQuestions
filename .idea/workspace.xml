@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f50f733-4f57-4b79-9781-c5d75f3a3acf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +38,7 @@
   "keyToString": {
     "Application.MinSubArrayLen.executor": "Run",
     "Application.Practice.executor": "Debug",
+    "Application.RemoveDuplicates.executor": "Debug",
     "Application.ReverseLinkedList.executor": "Debug",
     "Application.ValidSudoku.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -49,9 +49,16 @@
     "onboarding.tips.debug.path": "/Users/sonalisidana/Desktop/Projects/PracticeQuestions/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseLinkedList">
+  <component name="RunManager" selected="Application.RemoveDuplicates">
     <configuration name="MinSubArrayLen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MinSubArrayLen" />
+      <module name="PracticeQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicates" />
       <module name="PracticeQuestions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.MinSubArrayLen" />
         <item itemvalue="Application.ValidSudoku" />
@@ -99,29 +107,14 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReverseLinkedList.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/src/RemoveDuplicates.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReverseLinkedList.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReverseLinkedList.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReverseLinkedList.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReverseLinkedList.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/src/RemoveDuplicates.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
